@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nushdiki.iml" filepath="$PROJECT_DIR$/.idea/modules/Nushdiki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nushdiki_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Nushdiki_main.iml" group="Nushdiki" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nushdiki_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Nushdiki_test.iml" group="Nushdiki" />
+    </modules>
+  </component>
+</project>

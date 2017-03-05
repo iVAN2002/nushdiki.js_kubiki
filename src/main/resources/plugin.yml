@@ -1,0 +1,13 @@
+name: Nushdiki
+version: @version@
+main: io.ivan2002.Nushdiki
+prefix: FITHA
+load: STARTUP
+authors: [iVAN2002]
+description: Порт Nushdiki.js
+website: http://ivan2002.github.io
+commands:
+   nushdik:
+      description: Нуждик
+      permission: nushdiki.nushdik
+      usage: /nushdik [type]
