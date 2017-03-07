@@ -12,3 +12,7 @@
 `/nushdik [type]`:
 Из консоли - выводит в консоль и всем игрокам на сервере рандомный нуждик;
 В клиенте - выводит рандомный нуждик.
+
+# Ссылки
+
+Ru-minecraft.ru: http://ru-minecraft.ru/plaginy-minecraft/48009-1112-kubiki-nushdikijs-teper-na-vashem-servere.html
